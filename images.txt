@@ -1,3 +1,2 @@
 hectorqin/reader:openj9-3.2.9
-docker pull fooololo/aipan-netdisk-search
 docker pull fooololo/aipan-netdisk-search:latest
