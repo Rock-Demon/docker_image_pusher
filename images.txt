@@ -1,3 +1,2 @@
 hectorqin/reader:openj9-3.2.9
-difegue/lanraragi:nightly
-dezhao/lanraragi_cn
+docker pull fooololo/aipan-netdisk-search
