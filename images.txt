@@ -2,3 +2,4 @@ linuxserver/plex
 jellyfin/jellyfin
 linuxserver/qbittorrent
 zerotier/zerotier
+romancin/rclonebrowser
